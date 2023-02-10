@@ -1,0 +1,1 @@
+Este es un ejercicio realizado en Python el cual consiste en una hoja de notas estudiantil.
